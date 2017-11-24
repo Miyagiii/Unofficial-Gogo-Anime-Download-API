@@ -29,5 +29,6 @@ print(gogo.getDLLink(results[0].link+"5"))
 ```
 (result 0 and episode 5 are examples)
 
-
+#Final notes
+Feel free to ask for any help or if you have suggestions
 
