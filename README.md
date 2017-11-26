@@ -1,4 +1,4 @@
-# Unoffical Gogo Anime Download API
+# unofficial Gogo Anime Download API
 A GogoAnime API used for downloading anime
 # Requirements
 BS4<br/>
